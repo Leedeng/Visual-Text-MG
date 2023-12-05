@@ -36,7 +36,7 @@ Below is a summary table of the datasets used in this work along with a link fro
 | Dataset      | URL     |
 | ------------ | ------- |
 | SMG  | https://github.com/mikecheninoulu/SMG  |
-| DIBCO 2010   | https://github.com/linuxsino/iMiGUE |
+| iMiGUE   | https://github.com/linuxsino/iMiGUE |
 
 # Concat
 
