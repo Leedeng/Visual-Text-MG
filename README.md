@@ -1,4 +1,4 @@
-# Emotion understanding via multimodality context-aware micro gesture recognition
+# Enhancing Micro Gesture Recognition for Emotion Understanding via Context-aware Visual-Text Contrastive Learning
 
 
 <div align="center">
