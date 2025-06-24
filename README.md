@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://lut.pictures.fi/kuvat/LUT%20Press%20Images/LOGOS/LUT%20Logo/Logo%20for%20print/LUT%20logo%20%7C%20full%20black%20CMYK%20pdf.pdf?img=img2048" width="40%">
+    <img src="Asset/logo.jpg" width="40%">
 </div>
 
 # Dependency
