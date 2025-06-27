@@ -11,13 +11,13 @@ Download the repo and create the virtual environment by following commands
 ```
 conda create --name Visual-Text-MG --file=environments.yml
 conda activate Visual-Text-MG
-Python inference.py
 ```
-
 Download the pretrained weights from <a href="https://lut-my.sharepoint.com/:u:/g/personal/deng_li_lut_fi/EbQr90iosB5ItGfyHiQMoGQBe8ftEAE6iW3PCLUyQJPpCg?e=oTsjR3" title="here">here</a> 
 
-Then play with the provided inference.py.
-
+Then play with the provided inference.py
+```
+Python inference.py
+```
 # Datasets
 We do not own the copyright of the dataset used in this repo.
 
