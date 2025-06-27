@@ -14,6 +14,8 @@ conda create --name Visual-Text-MG --file=environments.yml
 
 ```
 
+Download the pretrained weights from <a href="[超链接地址](https://lut-my.sharepoint.com/:u:/g/personal/deng_li_lut_fi/EbQr90iosB5ItGfyHiQMoGQBe8ftEAE6iW3PCLUyQJPpCg?e=oTsjR3)" title="here">here</a> 
+
 Then play with the provided inference.py.
 
 # Datasets
