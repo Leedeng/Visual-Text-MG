@@ -5,27 +5,16 @@
     <img src="Asset/logo.jpg" width="40%">
 </div>
 
-# Dependency
-
-LineCounter is written in Pytorch.
-  
-  - Pytorch-GPU: 2.0.1
-  
-Other versions might also work but are not tested.
-
-
 # Demo
 
 Download the repo and create the virtual environment by following commands
 
 ```
-conda create --name Visual-Text-MG --file spec-env.txt
-conda activate Visual-Text-MG
-pip3 install torch torchvision torchaudio
-pip install opencv-python
+conda create --name Visual-Text-MG --file=environments.yml
+
 ```
 
-Then play with the provided ipython notebook.
+Then play with the provided inference.py.
 
 # Datasets
 We do not own the copyright of the dataset used in this repo.
